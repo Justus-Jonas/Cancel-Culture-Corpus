@@ -1,7 +1,5 @@
 # A Cancel Culture Corpus through the lens of Natural Language Processing
 
-Justus-Jonas Erker, Catalina Goanta, Gerasimos Spanakis
-
 This repository contains the Cancel Culture Corpus from the associated [paper](https://aclanthology.org/2022.lateraisse-1.3) by [Justus-Jonas Erker](https://erker.ai), [Catalina Goanta](https://www.uu.nl/staff/ECGoanta) and [Jerry Spanakis](https://dke.maastrichtuniversity.nl/jerry.spanakis/).
 
 ## Abstract
